@@ -1,3 +1,5 @@
+GUIDELINES
+
 1. Comunicação clara e constante
     Prática: Definir canais oficiais (Slack, Teams, e-mail) e manter atualizações regulares.
     Exemplo: “Postar no canal do projeto um resumo diário das tarefas concluídas e pendentes.”
